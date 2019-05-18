@@ -1,0 +1,76 @@
+Does it have black colour?
+Does it have white colour?
+Does it have blue colour?
+Does it have brown colour?
+Does it have gray colour?
+Does it have orange colour?
+Does it have red colour?
+Does it have yellow colour?
+Does it have patches?
+Does it have spots?
+Does it have stripes?
+Is it furry?
+Is it hairless?
+Does it have toughs kin?
+Is it big?
+Is it small?
+Does it have flippers?
+Does it have hands?
+Does it have hooves?
+Does it have pads?
+Does it have paws?
+Does it have long legs?
+Does it have a long neck?
+Does it have a tail?
+Does it have chewing teeth?
+Does it have meat teeth?
+Does it have horns?
+Does it have claws?
+Does it have tusks?
+Is it smelly?
+Does it fly?
+Does it hop?
+Does it swim?
+Does it tunnel?
+Does it walk?
+Is it fast?
+Is it slow?
+Is it strong?
+Is it weak?
+Is it muscular?
+Does it have two legs?
+Does it have four legs?
+Is it active?
+Is it inactive?
+Is it nocturnal?
+Is it a hibernate?
+Does it eat fish?
+Does it eat meat?
+Does it eat plankton?
+Does it eat vegetation?
+Does it eat insects?
+Is it a forager?
+Is it a grazer?
+Is it a hunter?
+Is it a scavenger?
+Is it a skimmer?
+Does it live in the americas?
+Does it live in asia, africa or europe?
+Is it an arctic animal?
+Is it a coastal animal?
+Is it a desert animal?
+Is it a bush animal?
+Does it live on the plains?
+Does it live in the forest?
+Does it live on the fields?
+Does it live in the jungle?
+Does it live in the mountains?
+Does it live in the ocean?
+Does it live on the ground?
+Does it live in the water?
+Does it live in trees?
+Does it live in a cave?
+Is it a group animal?
+Does it live on its own?
+Does it live in a nest?
+Is it a domestic animal?
