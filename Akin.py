@@ -18,6 +18,12 @@ class Akin:
                 line = line.split(' ')
                 self.matrix.append(line)
 
+        self.questions = []
+        with open("awa/questions.txt") as qu_file:
+            for line in qu_file:
+                self.questions.append(line[:-1])
+
+
         # to store attributes not asked yet (all of them at the beginning)
         self.not_asked = self.attributes[:]
         # store previous answers. Each item corresponds to an animal and stores the number answers fitting this animal.
@@ -89,6 +95,10 @@ class Akin:
     def wrong_guess(self, guess):
         # This needs to be called when we guessed and the user said this wasn't it
         self.guesses.append(guess)
+
+    def get_question_sentence(self, predicate):
+        inx = self.attributes.index(predicate)
+        return self.questions[inx]
 
 
 # This is for testing but also serves as a guidance,
