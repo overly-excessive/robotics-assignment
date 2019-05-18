@@ -1,4 +1,4 @@
-indices_to_delete = [16, 17, 28, 29, 50,61, 78, 79, 80]
+indices_to_delete = [16, 17, 28, 29, 50, 61, 78, 79, 80]
 
 # delete rows from predicates.txt
 

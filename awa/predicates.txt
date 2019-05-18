@@ -54,7 +54,6 @@
     59	hunter
     60	scavenger
     61	skimmer
-    62	stalker
     63	newworld
     64	oldworld
     65	arctic
