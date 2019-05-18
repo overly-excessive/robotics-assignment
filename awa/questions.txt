@@ -11,7 +11,7 @@ Does it have spots?
 Does it have stripes?
 Is it furry?
 Is it hairless?
-Does it have toughs kin?
+Does it have tough skin?
 Is it big?
 Is it small?
 Does it have flippers?
@@ -43,7 +43,7 @@ Does it have four legs?
 Is it active?
 Is it inactive?
 Is it nocturnal?
-Is it a hibernate?
+Does it hibernate?
 Does it eat fish?
 Does it eat meat?
 Does it eat plankton?
@@ -54,8 +54,8 @@ Is it a grazer?
 Is it a hunter?
 Is it a scavenger?
 Is it a skimmer?
-Does it live in the americas?
-Does it live in asia, africa or europe?
+Does it live in the Americas?
+Does it live in Asia, Africa or Europe?
 Is it an arctic animal?
 Is it a coastal animal?
 Is it a desert animal?
