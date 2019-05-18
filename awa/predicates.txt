@@ -14,8 +14,6 @@
     14	toughskin
     15	big
     16	small
-    17	bulbous
-    18	lean
     19	flippers
     20	hands
     21	hooves
@@ -26,8 +24,6 @@
     26	tail
     27	chewteeth
     28	meatteeth
-    29	buckteeth
-    30	strainteeth
     31	horns
     32	claws
     33	tusks
@@ -48,7 +44,6 @@
     48	inactive
     49	nocturnal
     50	hibernate
-    51	agility
     52	fish
     53	meat
     54	plankton
@@ -76,9 +71,6 @@
     76	water
     77	tree
     78	cave
-    79	fierce
-    80	timid
-    81	smart
     82	group
     83	solitary
     84	nestspot
