@@ -1,0 +1,11 @@
+Datastet:
+To implement the akinator game, a database of different animals along with their attributes is needed. This was obtained from "https://cvml.ist.ac.at/AwA2/". Originally, this database was intended to be used as a benchmarking tool for machine learning (image classification) algorithms.
+The akinator class:
+The skeleton structure of the akinator application for pepper was built using Python 2.7, as this is the latest Python version compatible with pepper. The game logic is encapsulated in the "Akin" class. This class imports the data about the animlas on initializaion. This consists of four txt classes, containing the list of possible animals, the list of possible predicates, the animal-predicate binary matrix and the list of well-formed english questions corresponding to each predicate respectively. The following methods other than the init method were implemented for this class:
+	- The "get_question" method is returns the best best question that can be asked next by the robot. The best question asks about the attribute, that splits the set of most likely solutions as close to halfway as possible. This strategy is implicitly maximixes the information gain resulting from knowing the answer, or in other words, it minimizes entropy.
+	- The "user_answer" method has to be called each time the user provides us with an aswer to a question. The method updates the robots knowledge on the possible solutions of the game.
+	- The "guess" method returns the robots best guess for the animal the user has thought of. Importantly, it returns the "None" object, if the robot does not feel certain about a single animal yet.
+	- The "wrong_guess" method has to be called whenever the robot has made a guess, but the user said this wasn't the animal they thougt of. The method updates the robots knowledge of the user's animal accordingly.
+	- The "get_question_sentence" method is a utility that requires an attribute as an argument, and returns a well formed english sentence that asks about that attribute. For example if the if the attribute "bipedal" is passed, it returns the string: "Does it have two legs?"
+
+
